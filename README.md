@@ -12,17 +12,12 @@ To get started with the configurations in this repository, follow these steps:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/PrusaSlicer-Configs.git
-
-
+   git clone git@github.com:andidietsche/PrusaSlicer-Configs.git
 2. **Navigate to the Directory  :**
    ```sh
-  cd PrusaSlicer-Configs
-
+   cd PrusaSlicer-Configs
 3. **Import Profiles into PrusaSlicer  :**
    ```sh
-  - Open PrusaSlicer
-  - Go to 'File' -> 'Import' -> 'Import Config Bundle'
-  - Select the desired configuration file from the repo
-
-
+   - Open PrusaSlicer
+   - Go to 'File' -> 'Import' -> 'Import Config Bundle'
+   - Select the desired configuration file from the repo
