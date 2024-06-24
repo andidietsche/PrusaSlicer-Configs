@@ -21,3 +21,8 @@ To get started with the configurations in this repository, follow these steps:
    - Open PrusaSlicer
    - Go to 'File' -> 'Import' -> 'Import Config Bundle'
    - Select the desired configuration file from the repo
+## Contribute
+When adding a new print setting, please include a brief description of its purpose and highlight the changes made.
+## Next Step
+Initially, all print settings will be saved in one file. The next step will be to organize the settings into a structure based on each filament type.
+
